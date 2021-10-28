@@ -11,7 +11,7 @@
 
 ## 🌐 Deploy on railway 
 
- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMeizzmrperfect%2Fcriminalsspam1.0&plugins=postgresql&envs=STRING%2CAPI_ID%2CAPI_HASH%2CSTRING2%2CSTRING3%2CSTRING4%2CSTRING5%2CSTRING6%2CSTRING7%2CSTRING8%2CSTRING9%2CSTRING10%2CSUDO%2CENV&optionalEnvs=STRING2%2CSTRING3%2CSTRING4%2CSTRING5%2CSTRING6%2CSTRING7%2CSTRING8%2CSTRING9%
+ [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMeizzmrperfect%2Flolmusix&plugins=postgresql&envs=STRING%2CAPI_ID%2CAPI_HASH%2CSESSION_NAME%2CBOT_NAME%%2CBOT_TOKEN%2CDURATION_LIMIT%2CSUDO_USERS
 ### 🧪 Get `SESSION_NAME` from below:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@HEXOROP/eSportMusic) ``Pyrogram``
